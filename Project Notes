@@ -1,0 +1,7 @@
+Project Notes:
+1. npm create @vite5
+    Enter Project name, react and javascript
+2. npm install --save-dev eslint vite-plugin-eslint eslint-config-react-app
+3. Update vite.config.js
+    Update eslintrc.json if not present
+4. npm -i styled-components
